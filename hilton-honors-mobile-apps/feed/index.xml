@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Hilton Honors Mobile Apps	</title>
-	<atom:link href="https://johnlloyd.us/hilton-honors-mobile-apps/feed/" rel="self" type="application/rss+xml" />
-	<link>https://johnlloyd.us/hilton-honors-mobile-apps/</link>
+	<atom:link href="/hilton-honors-mobile-apps/feed/" rel="self" type="application/rss+xml" />
+	<link>/hilton-honors-mobile-apps/</link>
 	<description></description>
 	<lastBuildDate>Sat, 28 Jan 2023 23:08:54 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for johnlloyd.us	</title>
-	<atom:link href="https://johnlloyd.us/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://johnlloyd.us/</link>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Sun, 29 Jan 2023 16:03:05 +0000</lastBuildDate>
 	<sy:updatePeriod>

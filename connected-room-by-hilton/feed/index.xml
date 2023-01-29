@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Connected Room by Hilton	</title>
-	<atom:link href="https://johnlloyd.us/connected-room-by-hilton/feed/" rel="self" type="application/rss+xml" />
-	<link>https://johnlloyd.us/connected-room-by-hilton/</link>
+	<atom:link href="/connected-room-by-hilton/feed/" rel="self" type="application/rss+xml" />
+	<link>/connected-room-by-hilton/</link>
 	<description></description>
 	<lastBuildDate>Sat, 28 Jan 2023 23:12:19 +0000</lastBuildDate>
 	<sy:updatePeriod>
