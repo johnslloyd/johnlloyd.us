@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>johnlloyd.us</title>
-	<atom:link href="https://johnlloyd.us/feed/" rel="self" type="application/rss+xml" />
+	<title>johnstevenlloydjr &#8211; johnlloyd.us</title>
+	<atom:link href="https://johnlloyd.us/author/johnstevenlloydjr/feed/" rel="self" type="application/rss+xml" />
 	<link>https://johnlloyd.us/</link>
 	<description></description>
 	<lastBuildDate>Sun, 29 Jan 2023 20:28:47 +0000</lastBuildDate>
