@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Projects &#8211; johnlloyd.us</title>
+	<title>- johnlloyd.us</title>
 	<atom:link href="https://johnlloyd.us/category/projects/feed/" rel="self" type="application/rss+xml" />
 	<link>https://johnlloyd.us/</link>
 	<description></description>
-	<lastBuildDate>Sun, 29 Jan 2023 20:28:47 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 02 Feb 2023 17:13:29 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,7 +28,9 @@
 				<category><![CDATA[Projects]]></category>
 		<guid isPermaLink="false">https://johnlloyd.us/?p=159</guid>
 
-					<description><![CDATA[Recommended by Robots is a new personal project that uses AI to generate product reviews. I&#8217;m using ChatGPT, MidJourneyAI, WordPress, Local.app, and Github Pages to experiment with some of the technologies I expect will shape much of the future of digital product design. You can check it out at recommendedbyrobots.com In today&#8217;s digital age, online [&#8230;]]]></description>
+					<description><![CDATA[<p>Recommended by Robots is a new personal project that uses AI to generate product reviews. I&#8217;m using ChatGPT, MidJourneyAI, WordPress, Local.app, and Github Pages to experiment with some of the technologies I expect will shape much of the future of digital product design. You can check it out at recommendedbyrobots.com In today&#8217;s digital age, online [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://johnlloyd.us/recommended-by-robots/">Recommended by Robots</a> appeared first on <a rel="nofollow" href="https://johnlloyd.us/">johnlloyd.us</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Recommended by Robots is a new personal project that uses AI to generate product reviews. I&#8217;m using ChatGPT, MidJourneyAI, WordPress, Local.app, and Github Pages to experiment with some of the technologies I expect will shape much of the future of digital product design.</p>
 
@@ -59,6 +61,7 @@
 
 
 <p>In today&#8217;s digital age, online reviews are an essential part of the purchasing process for consumers. However, with the abundance of fake reviews and bias, it can be challenging to know which products are truly worth your money. That&#8217;s where Recommended by Robots comes in. Our platform uses advanced AI technology to generate un</p>
+<p>The post <a rel="nofollow" href="https://johnlloyd.us/recommended-by-robots/">Recommended by Robots</a> appeared first on <a rel="nofollow" href="https://johnlloyd.us/">johnlloyd.us</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -66,40 +69,118 @@
 			</item>
 		<item>
 		<title>Dysly Reader</title>
-		<link>https://johnlloyd.us/dysly-reader/</link>
+		<link>https://johnlloyd.us/chrome-extension-for-dyslexia/</link>
 		
 		<dc:creator><![CDATA[johnstevenlloydjr]]></dc:creator>
 		<pubDate>Sun, 29 Jan 2023 20:27:26 +0000</pubDate>
 				<category><![CDATA[Projects]]></category>
 		<guid isPermaLink="false">https://johnlloyd.us/?p=157</guid>
 
-					<description><![CDATA[Gain confidence and improve reading comprehension on any website. Dysly is designed for kids and adults with any learning disability. Gain confidence and improve reading comprehension on any website. Dysly is designed for kids and adults with any learning disability or reading fluency including Dyslexia, Dysgraphia, and Dyscalculia and is for use at school, work, [&#8230;]]]></description>
+					<description><![CDATA[<p>Dysly Reader is a free chrome extension focused on improving reading comprehension on any website. The tool includes features to help people with dyslexia read and work on the internet with minimal disruption to intended content and designs. Our goal is to help kids and adults with any learning disability or reading fluency gain confidence [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://johnlloyd.us/chrome-extension-for-dyslexia/">Dysly Reader</a> appeared first on <a rel="nofollow" href="https://johnlloyd.us/">johnlloyd.us</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
-<p>Gain confidence and improve reading comprehension on any website. Dysly is designed for kids and adults with any learning disability.</p>
+<h5 class="has-text-align-center">Dysly Reader is a <strong>free chrome extension</strong> focused on improving reading comprehension on any website. </h5>
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="640" height="400" src="https://johnlloyd.us/wp-content/uploads/2023/01/unnamed.jpg" alt="" class="wp-image-38" srcset="https://johnlloyd.us/wp-content/uploads/2023/01/unnamed.jpg 640w, https://johnlloyd.us/wp-content/uploads/2023/01/unnamed-300x188.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></figure>
+<div style="height:34px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
 
-<p>Gain confidence and improve reading comprehension on any website. Dysly is designed for kids and adults with any learning disability or reading fluency including Dyslexia, Dysgraphia, and Dyscalculia and is for use at school, work, or home.
+<p>The tool includes features to help people with dyslexia read and work on the internet with minimal disruption to intended content and designs. Our goal is to help kids and adults with any learning disability or reading fluency gain confidence in reading online, work with minimal disruption, and customize their own digital experiences. </p>
 
 
 
-This is a free tool with no premium upsets or add ons. 
-
-Features include
-
-* Text-to-Speech tool to select sections of the page and hear words read aloud to you.
-* Reader Window to help provide focus and control for a customized reading experience.
-* A Subtle Nudges reading profile to adjust spacing and sizing to improve focus and line tracking
-* A Low Contrast reading profile to ease eye strain and assist with contrast sensitivity.
-* A Font Focus reading profile that changes page characters to use the Open Dyslexic font</p>
+<div style="height:48px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="640" height="400" src="https://johnlloyd.us/wp-content/uploads/2023/01/unnamed-2.jpg" alt="" class="wp-image-39" srcset="https://johnlloyd.us/wp-content/uploads/2023/01/unnamed-2.jpg 640w, https://johnlloyd.us/wp-content/uploads/2023/01/unnamed-2-300x188.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></figure>
+<div class="is-content-justification-center is-layout-flex wp-container-1 wp-block-buttons">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-quaternary-color has-text-color has-background wp-element-button" href="https://chrome.google.com/webstore/detail/dysly-reader/jggpelnbpjgbbeehkoflogfcmebkfcmp?hl=en-GB&amp;authuser=0" style="border-radius:81px;background-color:#e03919;padding-right:var(--wp--preset--spacing--80);padding-left:var(--wp--preset--spacing--80)"><strong>Get the Dysly Chrome Extension</strong></a></div>
+</div>
+
+
+
+<div style="height:45px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+<div class="wp-block-image is-style-default">
+<figure class="aligncenter size-full is-resized"><img decoding="async" src="https://johnlloyd.us/wp-content/uploads/2023/01/unnamed.jpg" alt="" class="wp-image-38" width="1020" srcset="https://johnlloyd.us/wp-content/uploads/2023/01/unnamed.jpg 640w, https://johnlloyd.us/wp-content/uploads/2023/01/unnamed-300x188.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></figure></div>
+
+
+<p>Features include </p>
+
+
+
+<p></p>
+
+
+
+<h4>A Text-to-Speech Tool.</h4>
+
+
+
+<p>This tool lets you can select sections of the page and get the text read aloud to you.</p>
+
+
+
+<p> </p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" src="https://johnlloyd.us/wp-content/uploads/2023/01/unnamed-1.jpg" alt="" class="wp-image-36" width="1020" srcset="https://johnlloyd.us/wp-content/uploads/2023/01/unnamed-1.jpg 640w, https://johnlloyd.us/wp-content/uploads/2023/01/unnamed-1-300x188.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></figure></div>
+
+
+<p></p>
+
+
+
+<h4>A Flexible and Interactive Reader Window</h4>
+
+
+
+<p>This feature helps provide focus and control for a customized reading experience. </p>
+
+
+
+<p></p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" src="https://johnlloyd.us/wp-content/uploads/2023/01/unnamed-2.jpg" alt="" class="wp-image-39" width="1020" srcset="https://johnlloyd.us/wp-content/uploads/2023/01/unnamed-2.jpg 640w, https://johnlloyd.us/wp-content/uploads/2023/01/unnamed-2-300x188.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></figure></div>
+
+
+<p></p>
+
+
+
+<h4>Multiple Style Themes</h4>
+
+
+
+<p>These allow you to customize the reading experience you have on every page you visit. The themes include:</p>
+
+
+
+<p></p>
+
+
+
+<ul>
+<li>A &#8220;Subtle Nudges&#8221; reading profile to adjust spacing and sizing to improve focus and line tracking without major page disruptions. </li>
+</ul>
+
+
+
+<ul>
+<li>A Low Contrast reading profile to ease eye strain and assist with contrast sensitivity. It&#8217;s another tool intended to minimally impact the intended layouts and designs for the pages you visit. </li>
+
+
+
+<li>A Font Focus reading profile that applies the Open Dyslexic font to pages</li>
+</ul>
+<p>The post <a rel="nofollow" href="https://johnlloyd.us/chrome-extension-for-dyslexia/">Dysly Reader</a> appeared first on <a rel="nofollow" href="https://johnlloyd.us/">johnlloyd.us</a>.</p>
 ]]></content:encoded>
 					
 		

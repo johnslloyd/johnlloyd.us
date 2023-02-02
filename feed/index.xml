@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>johnlloyd.us</title>
+	<title>- johnlloyd.us</title>
 	<atom:link href="https://johnlloyd.us/feed/" rel="self" type="application/rss+xml" />
 	<link>https://johnlloyd.us/</link>
 	<description></description>
-	<lastBuildDate>Sun, 29 Jan 2023 20:28:47 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 02 Feb 2023 17:13:29 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,7 +28,9 @@
 				<category><![CDATA[Projects]]></category>
 		<guid isPermaLink="false">https://johnlloyd.us/?p=159</guid>
 
-					<description><![CDATA[Recommended by Robots is a new personal project that uses AI to generate product reviews. I&#8217;m using ChatGPT, MidJourneyAI, WordPress, Local.app, and Github Pages to experiment with some of the technologies I expect will shape much of the future of digital product design. You can check it out at recommendedbyrobots.com In today&#8217;s digital age, online [&#8230;]]]></description>
+					<description><![CDATA[<p>Recommended by Robots is a new personal project that uses AI to generate product reviews. I&#8217;m using ChatGPT, MidJourneyAI, WordPress, Local.app, and Github Pages to experiment with some of the technologies I expect will shape much of the future of digital product design. You can check it out at recommendedbyrobots.com In today&#8217;s digital age, online [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://johnlloyd.us/recommended-by-robots/">Recommended by Robots</a> appeared first on <a rel="nofollow" href="https://johnlloyd.us/">johnlloyd.us</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Recommended by Robots is a new personal project that uses AI to generate product reviews. I&#8217;m using ChatGPT, MidJourneyAI, WordPress, Local.app, and Github Pages to experiment with some of the technologies I expect will shape much of the future of digital product design.</p>
 
@@ -59,6 +61,7 @@
 
 
 <p>In today&#8217;s digital age, online reviews are an essential part of the purchasing process for consumers. However, with the abundance of fake reviews and bias, it can be challenging to know which products are truly worth your money. That&#8217;s where Recommended by Robots comes in. Our platform uses advanced AI technology to generate un</p>
+<p>The post <a rel="nofollow" href="https://johnlloyd.us/recommended-by-robots/">Recommended by Robots</a> appeared first on <a rel="nofollow" href="https://johnlloyd.us/">johnlloyd.us</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -66,40 +69,118 @@
 			</item>
 		<item>
 		<title>Dysly Reader</title>
-		<link>https://johnlloyd.us/dysly-reader/</link>
+		<link>https://johnlloyd.us/chrome-extension-for-dyslexia/</link>
 		
 		<dc:creator><![CDATA[johnstevenlloydjr]]></dc:creator>
 		<pubDate>Sun, 29 Jan 2023 20:27:26 +0000</pubDate>
 				<category><![CDATA[Projects]]></category>
 		<guid isPermaLink="false">https://johnlloyd.us/?p=157</guid>
 
-					<description><![CDATA[Gain confidence and improve reading comprehension on any website. Dysly is designed for kids and adults with any learning disability. Gain confidence and improve reading comprehension on any website. Dysly is designed for kids and adults with any learning disability or reading fluency including Dyslexia, Dysgraphia, and Dyscalculia and is for use at school, work, [&#8230;]]]></description>
+					<description><![CDATA[<p>Dysly Reader is a free chrome extension focused on improving reading comprehension on any website. The tool includes features to help people with dyslexia read and work on the internet with minimal disruption to intended content and designs. Our goal is to help kids and adults with any learning disability or reading fluency gain confidence [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://johnlloyd.us/chrome-extension-for-dyslexia/">Dysly Reader</a> appeared first on <a rel="nofollow" href="https://johnlloyd.us/">johnlloyd.us</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
-<p>Gain confidence and improve reading comprehension on any website. Dysly is designed for kids and adults with any learning disability.</p>
+<h5 class="has-text-align-center">Dysly Reader is a <strong>free chrome extension</strong> focused on improving reading comprehension on any website. </h5>
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="640" height="400" src="https://johnlloyd.us/wp-content/uploads/2023/01/unnamed.jpg" alt="" class="wp-image-38" srcset="https://johnlloyd.us/wp-content/uploads/2023/01/unnamed.jpg 640w, https://johnlloyd.us/wp-content/uploads/2023/01/unnamed-300x188.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></figure>
+<div style="height:34px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
 
-<p>Gain confidence and improve reading comprehension on any website. Dysly is designed for kids and adults with any learning disability or reading fluency including Dyslexia, Dysgraphia, and Dyscalculia and is for use at school, work, or home.
+<p>The tool includes features to help people with dyslexia read and work on the internet with minimal disruption to intended content and designs. Our goal is to help kids and adults with any learning disability or reading fluency gain confidence in reading online, work with minimal disruption, and customize their own digital experiences. </p>
 
 
 
-This is a free tool with no premium upsets or add ons. 
-
-Features include
-
-* Text-to-Speech tool to select sections of the page and hear words read aloud to you.
-* Reader Window to help provide focus and control for a customized reading experience.
-* A Subtle Nudges reading profile to adjust spacing and sizing to improve focus and line tracking
-* A Low Contrast reading profile to ease eye strain and assist with contrast sensitivity.
-* A Font Focus reading profile that changes page characters to use the Open Dyslexic font</p>
+<div style="height:48px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="640" height="400" src="https://johnlloyd.us/wp-content/uploads/2023/01/unnamed-2.jpg" alt="" class="wp-image-39" srcset="https://johnlloyd.us/wp-content/uploads/2023/01/unnamed-2.jpg 640w, https://johnlloyd.us/wp-content/uploads/2023/01/unnamed-2-300x188.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></figure>
+<div class="is-content-justification-center is-layout-flex wp-container-1 wp-block-buttons">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-quaternary-color has-text-color has-background wp-element-button" href="https://chrome.google.com/webstore/detail/dysly-reader/jggpelnbpjgbbeehkoflogfcmebkfcmp?hl=en-GB&amp;authuser=0" style="border-radius:81px;background-color:#e03919;padding-right:var(--wp--preset--spacing--80);padding-left:var(--wp--preset--spacing--80)"><strong>Get the Dysly Chrome Extension</strong></a></div>
+</div>
+
+
+
+<div style="height:45px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+<div class="wp-block-image is-style-default">
+<figure class="aligncenter size-full is-resized"><img decoding="async" src="https://johnlloyd.us/wp-content/uploads/2023/01/unnamed.jpg" alt="" class="wp-image-38" width="1020" srcset="https://johnlloyd.us/wp-content/uploads/2023/01/unnamed.jpg 640w, https://johnlloyd.us/wp-content/uploads/2023/01/unnamed-300x188.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></figure></div>
+
+
+<p>Features include </p>
+
+
+
+<p></p>
+
+
+
+<h4>A Text-to-Speech Tool.</h4>
+
+
+
+<p>This tool lets you can select sections of the page and get the text read aloud to you.</p>
+
+
+
+<p> </p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" src="https://johnlloyd.us/wp-content/uploads/2023/01/unnamed-1.jpg" alt="" class="wp-image-36" width="1020" srcset="https://johnlloyd.us/wp-content/uploads/2023/01/unnamed-1.jpg 640w, https://johnlloyd.us/wp-content/uploads/2023/01/unnamed-1-300x188.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></figure></div>
+
+
+<p></p>
+
+
+
+<h4>A Flexible and Interactive Reader Window</h4>
+
+
+
+<p>This feature helps provide focus and control for a customized reading experience. </p>
+
+
+
+<p></p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" src="https://johnlloyd.us/wp-content/uploads/2023/01/unnamed-2.jpg" alt="" class="wp-image-39" width="1020" srcset="https://johnlloyd.us/wp-content/uploads/2023/01/unnamed-2.jpg 640w, https://johnlloyd.us/wp-content/uploads/2023/01/unnamed-2-300x188.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></figure></div>
+
+
+<p></p>
+
+
+
+<h4>Multiple Style Themes</h4>
+
+
+
+<p>These allow you to customize the reading experience you have on every page you visit. The themes include:</p>
+
+
+
+<p></p>
+
+
+
+<ul>
+<li>A &#8220;Subtle Nudges&#8221; reading profile to adjust spacing and sizing to improve focus and line tracking without major page disruptions. </li>
+</ul>
+
+
+
+<ul>
+<li>A Low Contrast reading profile to ease eye strain and assist with contrast sensitivity. It&#8217;s another tool intended to minimally impact the intended layouts and designs for the pages you visit. </li>
+
+
+
+<li>A Font Focus reading profile that applies the Open Dyslexic font to pages</li>
+</ul>
+<p>The post <a rel="nofollow" href="https://johnlloyd.us/chrome-extension-for-dyslexia/">Dysly Reader</a> appeared first on <a rel="nofollow" href="https://johnlloyd.us/">johnlloyd.us</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -114,7 +195,9 @@ Features include
 				<category><![CDATA[Writing]]></category>
 		<guid isPermaLink="false">https://johnlloyd.us/?p=18</guid>
 
-					<description><![CDATA[Last December I found myself coming into work early while my kids were out for Christmas break to get a head start on my day. Instead of answering emails or estimating projects, I was using the quiet time to draw on our large whiteboard walls. I was careful to try and draw in an empty [&#8230;]]]></description>
+					<description><![CDATA[<p>Last December I found myself coming into work early while my kids were out for Christmas break to get a head start on my day. Instead of answering emails or estimating projects, I was using the quiet time to draw on our large whiteboard walls. I was careful to try and draw in an empty [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://johnlloyd.us/all-52-whiteboards/">All 52 Whiteboards</a> appeared first on <a rel="nofollow" href="https://johnlloyd.us/">johnlloyd.us</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-image size-full"><img decoding="async" width="1400" height="331" src="https://johnlloyd.us/wp-content/uploads/2023/01/1_tfWydmiWVmSCHgnYnVXESg.webp" alt="" class="wp-image-107" srcset="https://johnlloyd.us/wp-content/uploads/2023/01/1_tfWydmiWVmSCHgnYnVXESg.webp 1400w, https://johnlloyd.us/wp-content/uploads/2023/01/1_tfWydmiWVmSCHgnYnVXESg-300x71.webp 300w, https://johnlloyd.us/wp-content/uploads/2023/01/1_tfWydmiWVmSCHgnYnVXESg-1024x242.webp 1024w, https://johnlloyd.us/wp-content/uploads/2023/01/1_tfWydmiWVmSCHgnYnVXESg-768x182.webp 768w" sizes="(max-width: 1400px) 100vw, 1400px" /></figure>
 
@@ -501,6 +584,7 @@ Features include
 
 
 <p id="17db">On a side note, almost all of these we’re blatantly copied from other artist. There’s no way I could have planned and executed these so quickly if they were all original. I created a pin board off all the work i based these on if you want to see some of the originals.&nbsp;<a href="https://www.pinterest.com/johnlloyd/mural-ideas/" rel="noreferrer noopener" target="_blank">https://www.pinterest.com/johnlloyd/mural-ideas/</a></p>
+<p>The post <a rel="nofollow" href="https://johnlloyd.us/all-52-whiteboards/">All 52 Whiteboards</a> appeared first on <a rel="nofollow" href="https://johnlloyd.us/">johnlloyd.us</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -515,7 +599,9 @@ Features include
 				<category><![CDATA[Portfolio]]></category>
 		<guid isPermaLink="false">https://johnlloyd.us/?p=64</guid>
 
-					<description><![CDATA[Hilton’s website is a constantly evolving digital product that represents 18 brands and nearly 6000 properties. It&#8217;s a giant distribution channel and a trusted touchpoint for Hilton&#8217;s customers. Visit&#160;Hilton.com Our Approach Sites this size don’t get redesigned as a project. They are long-term, ongoing engagements. Our experience design team approached this work by focusing on [&#8230;]]]></description>
+					<description><![CDATA[<p>Hilton’s website is a constantly evolving digital product that represents 18 brands and nearly 6000 properties. It&#8217;s a giant distribution channel and a trusted touchpoint for Hilton&#8217;s customers. Visit&#160;Hilton.com Our Approach Sites this size don’t get redesigned as a project. They are long-term, ongoing engagements. Our experience design team approached this work by focusing on [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://johnlloyd.us/hiltons-website/">Hilton’s Website</a> appeared first on <a rel="nofollow" href="https://johnlloyd.us/">johnlloyd.us</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Hilton’s website is a constantly evolving digital product that represents 18 brands and nearly 6000 properties. It&#8217;s a giant distribution channel and a trusted touchpoint for Hilton&#8217;s customers.</p>
 
@@ -546,6 +632,7 @@ Features include
 
 
 <p>My role on this included facilitating workshops, a little prototyping, as well as leading the design, UX, and content strategy teams.</p>
+<p>The post <a rel="nofollow" href="https://johnlloyd.us/hiltons-website/">Hilton’s Website</a> appeared first on <a rel="nofollow" href="https://johnlloyd.us/">johnlloyd.us</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -560,7 +647,9 @@ Features include
 				<category><![CDATA[Portfolio]]></category>
 		<guid isPermaLink="false">https://johnlloyd.us/?p=75</guid>
 
-					<description><![CDATA[With tools like digital checkin, digital key, explore, messaging, and partnerships with Lyft, Hilton’s award-winning mobile apps are the center of a guests digital experience on property and the home of many of Hilton&#8217;s digital innovations over the recent years. Visit&#160;The Hilton Honors Mobile Apps Our Approach Mobile apps give us an opportunity to serve [&#8230;]]]></description>
+					<description><![CDATA[<p>With tools like digital checkin, digital key, explore, messaging, and partnerships with Lyft, Hilton’s award-winning mobile apps are the center of a guests digital experience on property and the home of many of Hilton&#8217;s digital innovations over the recent years. Visit&#160;The Hilton Honors Mobile Apps Our Approach Mobile apps give us an opportunity to serve [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://johnlloyd.us/hilton-honors-mobile-apps/">Hilton Honors Mobile Apps</a> appeared first on <a rel="nofollow" href="https://johnlloyd.us/">johnlloyd.us</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>With tools like digital checkin, digital key, explore, messaging, and partnerships with Lyft, Hilton’s award-winning mobile apps are the center of a guests digital experience on property and the home of many of Hilton&#8217;s digital innovations over the recent years.</p>
 
@@ -591,6 +680,7 @@ Features include
 
 
 <p>With a wealth of research and analytics on how users behaved in the past, we wanted to regularly leverage our XDR partners to help us understand evolving problems and needs as well as validate the usability and product market fit of our work.</p>
+<p>The post <a rel="nofollow" href="https://johnlloyd.us/hilton-honors-mobile-apps/">Hilton Honors Mobile Apps</a> appeared first on <a rel="nofollow" href="https://johnlloyd.us/">johnlloyd.us</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -605,7 +695,9 @@ Features include
 				<category><![CDATA[Portfolio]]></category>
 		<guid isPermaLink="false">https://johnlloyd.us/?p=80</guid>
 
-					<description><![CDATA[Travelers increasingly expect an experience as good as, and ideally better than, what they are accustomed to at home. Hilton&#8217;s Connected Room lets guests connect to all of their own content as well as use their mobile devices to control television programming, lighting, and more. Visit&#160;newsroom.hilton.com]]></description>
+					<description><![CDATA[<p>Travelers increasingly expect an experience as good as, and ideally better than, what they are accustomed to at home. Hilton&#8217;s Connected Room lets guests connect to all of their own content as well as use their mobile devices to control television programming, lighting, and more. Visit&#160;newsroom.hilton.com</p>
+<p>The post <a rel="nofollow" href="https://johnlloyd.us/connected-room-by-hilton/">Connected Room by Hilton</a> appeared first on <a rel="nofollow" href="https://johnlloyd.us/">johnlloyd.us</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Travelers increasingly expect an experience as good as, and ideally better than, what they are accustomed to at home. Hilton&#8217;s Connected Room lets guests connect to all of their own content as well as use their mobile devices to control television programming, lighting, and more.</p>
 
@@ -616,6 +708,7 @@ Features include
 
 
 <figure class="wp-block-image size-large"><img decoding="async" width="1024" height="575" src="https://johnlloyd.us/wp-content/uploads/2023/01/hilton-connectedroom.f6950bb0-1024x575.png" alt="" class="wp-image-81" srcset="https://johnlloyd.us/wp-content/uploads/2023/01/hilton-connectedroom.f6950bb0-1024x575.png 1024w, https://johnlloyd.us/wp-content/uploads/2023/01/hilton-connectedroom.f6950bb0-300x168.png 300w, https://johnlloyd.us/wp-content/uploads/2023/01/hilton-connectedroom.f6950bb0-768x431.png 768w, https://johnlloyd.us/wp-content/uploads/2023/01/hilton-connectedroom.f6950bb0.png 1260w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<p>The post <a rel="nofollow" href="https://johnlloyd.us/connected-room-by-hilton/">Connected Room by Hilton</a> appeared first on <a rel="nofollow" href="https://johnlloyd.us/">johnlloyd.us</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -630,7 +723,9 @@ Features include
 				<category><![CDATA[Portfolio]]></category>
 		<guid isPermaLink="false">https://johnlloyd.us/?p=83</guid>
 
-					<description><![CDATA[Partnering with digital teams from the hospital, our team of designers and UI developers collaborated on a the redesign of stjude.org and the CMS to drive the site. Visit&#160;Stjude.org]]></description>
+					<description><![CDATA[<p>Partnering with digital teams from the hospital, our team of designers and UI developers collaborated on a the redesign of stjude.org and the CMS to drive the site. Visit&#160;Stjude.org</p>
+<p>The post <a rel="nofollow" href="https://johnlloyd.us/st-jude-website/">St. Jude Website</a> appeared first on <a rel="nofollow" href="https://johnlloyd.us/">johnlloyd.us</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Partnering with digital teams from the hospital, our team of designers and UI developers collaborated on a the redesign of stjude.org and the CMS to drive the site.</p>
 
@@ -641,6 +736,7 @@ Features include
 
 
 <figure class="wp-block-image size-large"><img decoding="async" width="1024" height="712" src="https://johnlloyd.us/wp-content/uploads/2023/01/stjudeweb-1800.8f341fde-1024x712.png" alt="" class="wp-image-84" srcset="https://johnlloyd.us/wp-content/uploads/2023/01/stjudeweb-1800.8f341fde-1024x712.png 1024w, https://johnlloyd.us/wp-content/uploads/2023/01/stjudeweb-1800.8f341fde-300x209.png 300w, https://johnlloyd.us/wp-content/uploads/2023/01/stjudeweb-1800.8f341fde-768x534.png 768w, https://johnlloyd.us/wp-content/uploads/2023/01/stjudeweb-1800.8f341fde.png 1260w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<p>The post <a rel="nofollow" href="https://johnlloyd.us/st-jude-website/">St. Jude Website</a> appeared first on <a rel="nofollow" href="https://johnlloyd.us/">johnlloyd.us</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -655,7 +751,9 @@ Features include
 				<category><![CDATA[Portfolio]]></category>
 		<guid isPermaLink="false">https://johnlloyd.us/?p=86</guid>
 
-					<description><![CDATA[As a lead designer and UI developer for St. Jude&#8217;s peer-to-peer fundraising product, I worked with a small team to deliver tools for millions of fundraisers across the country Visit&#160;St. Jude Heroes]]></description>
+					<description><![CDATA[<p>As a lead designer and UI developer for St. Jude&#8217;s peer-to-peer fundraising product, I worked with a small team to deliver tools for millions of fundraisers across the country Visit&#160;St. Jude Heroes</p>
+<p>The post <a rel="nofollow" href="https://johnlloyd.us/st-jude-peer-to-peer-fundraising/">St. Jude Peer to Peer Fundraising</a> appeared first on <a rel="nofollow" href="https://johnlloyd.us/">johnlloyd.us</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>As a lead designer and UI developer for St. Jude&#8217;s peer-to-peer fundraising product, I worked with a small team to deliver tools for millions of fundraisers across the country</p>
 
@@ -665,11 +763,12 @@ Features include
 
 
 
-<div class="is-layout-flex wp-container-2 wp-block-columns">
+<div class="is-layout-flex wp-container-3 wp-block-columns">
 <div class="is-layout-flow wp-block-column">
 <figure class="wp-block-image size-large"><img decoding="async" width="1024" height="712" src="https://johnlloyd.us/wp-content/uploads/2023/01/heroes-home-web.16ca46c4-1-1024x712.png" alt="" class="wp-image-93" srcset="https://johnlloyd.us/wp-content/uploads/2023/01/heroes-home-web.16ca46c4-1-1024x712.png 1024w, https://johnlloyd.us/wp-content/uploads/2023/01/heroes-home-web.16ca46c4-1-300x209.png 300w, https://johnlloyd.us/wp-content/uploads/2023/01/heroes-home-web.16ca46c4-1-768x534.png 768w, https://johnlloyd.us/wp-content/uploads/2023/01/heroes-home-web.16ca46c4-1.png 1260w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 </div>
 </div>
+<p>The post <a rel="nofollow" href="https://johnlloyd.us/st-jude-peer-to-peer-fundraising/">St. Jude Peer to Peer Fundraising</a> appeared first on <a rel="nofollow" href="https://johnlloyd.us/">johnlloyd.us</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -684,7 +783,9 @@ Features include
 				<category><![CDATA[Portfolio]]></category>
 		<guid isPermaLink="false">https://johnlloyd.us/?p=95</guid>
 
-					<description><![CDATA[I led a design team that built a seamless experience for donors as part of the 2016 St. Jude Dream Home fundraising campaign. Design Brief This program was very successful offline. We needed to make the digital experience as clear and frictionless as purchasing a ticket on the phone. User Behavior Based on our existing [&#8230;]]]></description>
+					<description><![CDATA[<p>I led a design team that built a seamless experience for donors as part of the 2016 St. Jude Dream Home fundraising campaign. Design Brief This program was very successful offline. We needed to make the digital experience as clear and frictionless as purchasing a ticket on the phone. User Behavior Based on our existing [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://johnlloyd.us/st-jude-dream-home/">St. Jude Dream Home</a> appeared first on <a rel="nofollow" href="https://johnlloyd.us/">johnlloyd.us</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>I led a design team that built a seamless experience for donors as part of the 2016 St. Jude Dream Home fundraising campaign.</p>
 
@@ -769,6 +870,7 @@ Features include
 
 <li>publicize the sponsors that made this program possible</li>
 </ul>
+<p>The post <a rel="nofollow" href="https://johnlloyd.us/st-jude-dream-home/">St. Jude Dream Home</a> appeared first on <a rel="nofollow" href="https://johnlloyd.us/">johnlloyd.us</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -783,7 +885,9 @@ Features include
 				<category><![CDATA[Writing]]></category>
 		<guid isPermaLink="false">https://johnlloyd.us/?p=104</guid>
 
-					<description><![CDATA[It’s that time of year again. Optional school applications were made available for pickup starting at 6 a.m. on Monday, January 25th. This has been one of those odd “Only in Memphis” traditions that we’ve all heard has been going on forever; The optional schools, parent-organized, sidewalk camp outline at the board of education. Shelby [&#8230;]]]></description>
+					<description><![CDATA[<p>It’s that time of year again. Optional school applications were made available for pickup starting at 6 a.m. on Monday, January 25th. This has been one of those odd “Only in Memphis” traditions that we’ve all heard has been going on forever; The optional schools, parent-organized, sidewalk camp outline at the board of education. Shelby [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://johnlloyd.us/camping-in-memphis-for-optional-schools/">Camping in Memphis for Optional Schools</a> appeared first on <a rel="nofollow" href="https://johnlloyd.us/">johnlloyd.us</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-image size-large"><img decoding="async" width="1024" height="543" src="https://johnlloyd.us/wp-content/uploads/2023/01/1_G24RHCBEGaUgZ8biF2HQ8g-1-1024x543.webp" alt="" class="wp-image-145" srcset="https://johnlloyd.us/wp-content/uploads/2023/01/1_G24RHCBEGaUgZ8biF2HQ8g-1-1024x543.webp 1024w, https://johnlloyd.us/wp-content/uploads/2023/01/1_G24RHCBEGaUgZ8biF2HQ8g-1-300x159.webp 300w, https://johnlloyd.us/wp-content/uploads/2023/01/1_G24RHCBEGaUgZ8biF2HQ8g-1-768x408.webp 768w, https://johnlloyd.us/wp-content/uploads/2023/01/1_G24RHCBEGaUgZ8biF2HQ8g-1.webp 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
@@ -850,6 +954,7 @@ Features include
 
 
 <p id="e5cd">Maybe this is a terrible idea but I hope this starts a conversation about a better way to offer the same great programs to parents and students that I benefited from as a Memphis City Optional School Student for 13 years at Sherwood, Colonial, and Overton.</p>
+<p>The post <a rel="nofollow" href="https://johnlloyd.us/camping-in-memphis-for-optional-schools/">Camping in Memphis for Optional Schools</a> appeared first on <a rel="nofollow" href="https://johnlloyd.us/">johnlloyd.us</a>.</p>
 ]]></content:encoded>
 					
 		
