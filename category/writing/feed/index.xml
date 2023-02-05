@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>- johnlloyd.us</title>
+	<title>Writing Archives - johnlloyd.us</title>
 	<atom:link href="https://johnlloyd.us/category/writing/feed/" rel="self" type="application/rss+xml" />
-	<link>https://johnlloyd.us/</link>
+	<link>https://johnlloyd.us/category/writing/</link>
 	<description></description>
 	<lastBuildDate>Thu, 02 Feb 2023 17:05:52 +0000</lastBuildDate>
 	<language>en-US</language>
